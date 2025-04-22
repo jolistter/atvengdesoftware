@@ -2,7 +2,7 @@
 Atividade de Engenharia de Software
 Nome do grupo: PixelCria
 Tema: Ficção Científica - Viagem no Tempo
-Integrantes: Jordana
+Integrantes: Jordana F. Bernardino Silva e Giovanni Sencioles.
 
 Descrição da História:
 Em um futuro distópico, a Terra está prestes a ser destruída por um colapso ambiental. Um grupo de jovens cientistas descobre um artefato que permite viagens no tempo. A HQ acompanha a jornada desses personagens em tentativas de corrigir erros do passado, enfrentando dilemas morais e eventos inesperados em diversas eras da história.
